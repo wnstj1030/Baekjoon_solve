@@ -6,6 +6,5 @@ for i in range(9):
     c.append(a)
 b.sort()
 print(b[8])
-print(c.index(b[8])+1)
-
+print(c.index(b[8])+1) 
     
